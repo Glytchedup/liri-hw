@@ -1,0 +1,66 @@
+User Command: node liri.js movie-this baby driver
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Godfather
+Year Released: 15 Nov 1991
+IMBD Rating: 8.5
+Rotten Tomatoes Rating: undefined
+Country Produced: India
+Language: Malayalam
+Plot: Two rival clans under Anjooran and Achamma have a history of mutual hatred. Anjooran, convinced that women are the root of all evil, ensures that all his sons stay bachelors. The youngest son, Ramabhadran falls in love with Malu, from Achamma's family. A complicated tug-of-war ensues.
+Actors: N.N. Pillai, Mukesh, Kanaka, Philomina
+
+User Command: node liri.js movie-this Baby Driver
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Baby Driver
+Year Released: 28 Jun 2017
+IMBD Rating: 7.7
+Rotten Tomatoes Rating: undefined
+Country Produced: UK, USA
+Language: English, American Sign Language
+Plot: Baby is a young and partially hearing impaired getaway driver who can make any wild move while in motion with the right track playing. It's a critical talent he needs to survive his indentured servitude to the crime boss, Doc, who values his role in his meticulously planned robberies. However, just when Baby thinks he is finally free and clear to have his own life with his new girlfriend, Deborah, Doc coerces him back for another job. Now saddled with a crew of thugs too violently unstable to keep to Doc's plans, Baby finds himself and everything he cares for in terrible danger. To survive and escape the coming maelstrom, it will take all of Baby's skill, wits and daring, but even on the best track, can he make it when life is forcing him to face the music?
+Actors: Ansel Elgort, Jon Bernthal, Jon Hamm, Eiza González
+
+User Command: node liri.js movie-this The Incredibles
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Incredibles
+Year Released: 05 Nov 2004
+IMBD Rating: 8.0
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English, French
+Plot: Bob Parr (A.K.A. Mr. Incredible), and his wife Helen (A.K.A. Elastigirl), are the world's greatest famous crime-fighting superheroes in Metroville. Always saving lives and battling evil on a daily basis. But fifteen years later, they have been forced to adopt civilian identities and retreat to the suburbs where they have no choice but to retire as superheroes to live a "normal life" with their three children Violet, Dash and Jack-Jack (who were secretly born with superpowers). Itching to get back into action, Bob gets his chance when a mysterious communication summons him to a remote island for a top secret assignment. He soon discovers that it will take a super family effort to rescue the world from total destruction.
+Actors: Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\davek\Downloads\liri\liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
