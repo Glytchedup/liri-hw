@@ -4,8 +4,8 @@ var request = require('request');
 var fs = require('fs');
 
 var spotify = new Spotify({
-	id: 'ebeedb0bb8ee40b29dc3735f9d87d2b6',
-	secret: 'c94edce2fe254bda9d414d05534b7dd0'
+	id: process.env.SPOTIFY_ID,
+	secret: process.env.SPOTIFY_SECRET
 });
 
 var keys = require('./keys.js');
